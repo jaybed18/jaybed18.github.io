@@ -1,0 +1,11 @@
+/*mystyle.css*/
+
+body{
+    background-color: beige;
+    padding:38px;
+}
+
+p{
+    font-size: 15px;
+    color:black ;
+}
